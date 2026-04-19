@@ -29,7 +29,10 @@ The goal of this project was to understand how APIs work, how to connect to a da
 ## How to run the project
 
 1. Clone the repository
+<<<<<<< HEAD
 git clone https://github.com/Siyah-135/task-manager-api.git
+
+(Added models and database setup)
 
 cd task-manager-api
 
@@ -80,4 +83,8 @@ You can test all the endpoints from there.
 
 ## Author
 
+<<<<<<< HEAD
 Hasiyatu Ismail
+=======
+Hasiyatu Ismail
+>>>>>>> ff0df07 (Added models and database setup)
