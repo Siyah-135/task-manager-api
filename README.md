@@ -83,8 +83,6 @@ You can test all the endpoints from there.
 
 ## Author
 
-<<<<<<< HEAD
+
 Hasiyatu Ismail
-=======
-Hasiyatu Ismail
->>>>>>> ff0df07 (Added models and database setup)
+
