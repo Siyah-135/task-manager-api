@@ -29,7 +29,7 @@ The goal of this project was to understand how APIs work, how to connect to a da
 ## How to run the project
 
 1. Clone the repository
-git clone https://github.com/your-username/task-manager-api.git
+git clone https://github.com/Siyah-135/task-manager-api.git
 
 cd task-manager-api
 
